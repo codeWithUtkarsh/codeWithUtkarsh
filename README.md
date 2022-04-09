@@ -1,4 +1,4 @@
-[![Header]https://github.com/codeWithUtkarsh/codeWithUtkarsh/blob/main/readme_header.png "Header")](https://dev.to/codewithutkarsh)
+[![Header](https://github.com/codeWithUtkarsh/codeWithUtkarsh/blob/main/header-banner.png "Header")](https://dev.to/codewithutkarsh)
 
 # Hello, folks! <img src="https://github.com/codeWithUtkarsh/codeWithUtkarsh/blob/main/wave.gif" width="30px">
 
