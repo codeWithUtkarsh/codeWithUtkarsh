@@ -1,5 +1,7 @@
 [![Header](https://github.com/codeWithUtkarsh/codeWithUtkarsh/blob/main/header-banner.png "Header")](https://dev.to/codewithutkarsh)
 
+<img src="https://komarev.com/ghpvc/?username=codeWithUtkarsh&color=2bbc8a&style=flat&label=Profile+views" alt="Profile views" align="right" />
+
 # Hi, I'm Utkarsh <img src="https://github.com/codeWithUtkarsh/codeWithUtkarsh/blob/main/wave.gif" width="30px">
 
 **AI/ML Engineer** in London, currently at **Acutro**. I have 6+ years shipping production systems and now work end-to-end on **GenAI** — agentic architectures, RAG at scale, and LLM-powered products — with the MLOps to keep them alive after the demo.
@@ -65,8 +67,6 @@ The design principle is that **most of a pipeline shouldn't need an LLM**. Ecosy
 
 | Repo | What it is |
 |---|---|
-| [**neural-networks**](https://github.com/codeWithUtkarsh/neural-networks) | Twelve weeks of network architectures built up from scratch. |
-| [**NLP**](https://github.com/codeWithUtkarsh/NLP) | Tweet sentiment analysis and vector-space semantics for character similarity. |
 | [**ClassifierML**](https://github.com/codeWithUtkarsh/ClassifierML) · [**Gaussians_Mixture_model**](https://github.com/codeWithUtkarsh/Gaussians_Mixture_model) | Text + image feature fusion for cuisine classification; GMMs over the Peterson & Barney vowel formant dataset. |
 | [**predictive-analysis**](https://github.com/codeWithUtkarsh/predictive-analysis) · [**spark-taxi-analytics**](https://github.com/codeWithUtkarsh/spark-taxi-analytics) | Insurance-cost regression; distributed **Spark** analytics on a JupyterHub/Kubernetes cluster. |
 
@@ -77,6 +77,21 @@ The design principle is that **most of a pipeline shouldn't need an LLM**. Ecosy
 | [**llm-product-attribute-extraction**](https://github.com/codeWithUtkarsh/llm-product-attribute-extraction) | LLM-driven product attribute extraction over scraped retail catalogues, running **Ollama** locally against a category/attribute taxonomy — the working notebooks behind the NER pipeline. |
 | [**GPT5VideoSubtitleGeneration**](https://github.com/codeWithUtkarsh/GPT5VideoSubtitleGeneration) | Video → transcript → translated subtitles, wrapped in a small web service around the processing and translation stages. |
 | [**Ortelius** microservices](https://github.com/codeWithUtkarsh?tab=repositories&q=ortelius) | CNCF/CDF software supply-chain evidence store — the contributions behind the two Linux Foundation awards. |
+
+## 🏗️ Software Engineering
+
+Before and alongside the ML work — full-stack products, distributed streaming, and platform tooling.
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**shop-delivery-manager**](https://github.com/codeWithUtkarsh/shop-delivery-manager) | Shop and delivery operations platform — manage wholesalers and retailers, build multi-SKU orders, track deliveries, and cost batches. My largest codebase (~650 KB), with business logic pushed into PostgreSQL functions. | React · TypeScript · Material UI · Clerk · Supabase |
+| [**ecommerce-app**](https://github.com/codeWithUtkarsh/ecommerce-app) | Full storefront for Indian and ethnic products — catalogue, cart, real-time auth and orders, split across a Next.js front end and a separate TypeScript API server, with end-to-end tests. | Next.js 15 · TypeScript · Tailwind · Supabase |
+| [**mil-can-platform**](https://github.com/codeWithUtkarsh/mil-can-platform) | MIL-CAN — a network connecting educators, creators and literacy advocates to counter misinformation. | Next.js · TypeScript · Tailwind · Netlify |
+| [**flink-kafka**](https://github.com/codeWithUtkarsh/flink-kafka) | A Flink streaming job consuming and transforming Kafka topics, packaged as a custom Flink job-cluster image and deployed to Kubernetes with Helm charts. Local stack (Kafka, Zookeeper, KafDrop) via Compose. | Scala · Apache Flink · Kafka · Docker · Kubernetes · Helm |
+| [**PaymentWalletSystemWithJWT**](https://github.com/codeWithUtkarsh/PaymentWalletSystemWithJWT) | Payment wallet service with JWT-secured endpoints and an Azure Pipelines build. My most-forked repository. | Java · Spring Boot · JWT · Azure Pipelines |
+| [**gmaps-business-finder**](https://github.com/codeWithUtkarsh/gmaps-business-finder) | Google Maps business-data finder — resolves every postcode in a UK city via postcodes.io, then runs a threaded scrape across them, streaming live progress to the browser over SSE. | Python · Flask · Docker · Railway |
+| [**docker-management-api**](https://github.com/codeWithUtkarsh/docker-management-api) | REST API for container lifecycle management, wrapping the Docker CLI behind HTTP endpoints, with a companion tester application. | Python · Flask · Docker |
+| [**go-abs**](https://github.com/codeWithUtkarsh/go-abs) | Database abstraction layer built around a datasource factory — swap the backing store (NFT.Storage ↔ PostgreSQL) without touching handler code. One Compose file per implementation. | Go · PostgreSQL · Docker |
 
 ## 🔧 Technologies & Tools
 
@@ -134,12 +149,55 @@ The design principle is that **most of a pipeline shouldn't need an LLM**. Ecosy
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/codeWithUtkarsh/codeWithUtkarsh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithUtkarsh&layout=compact&langs_count=8&hide=html,css,tex,mustache,scss,shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/codeWithUtkarsh/codeWithUtkarsh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeWithUtkarsh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Utkarsh's GitHub Stats" />
-</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeWithUtkarsh&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeWithUtkarsh&theme=github_light" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeWithUtkarsh&theme=github_dark" alt="Profile details" width="98%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeWithUtkarsh&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeWithUtkarsh&theme=github_light" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeWithUtkarsh&theme=github_dark" alt="Top languages by commit" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeWithUtkarsh&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeWithUtkarsh&theme=github_light" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeWithUtkarsh&theme=github_dark" alt="Stars, commits, PRs and issues" width="49%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeWithUtkarsh&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeWithUtkarsh&theme=github_light" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeWithUtkarsh&theme=github_dark" alt="Commits by hour of day" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeWithUtkarsh&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeWithUtkarsh&theme=github_light" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeWithUtkarsh&theme=github_dark" alt="Top languages by repo" width="49%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=codeWithUtkarsh&theme=github-compact&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=codeWithUtkarsh&theme=minimal&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithUtkarsh&theme=github-compact&area=true&hide_border=true" alt="Contribution activity over the last year" width="98%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeWithUtkarsh/codeWithUtkarsh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeWithUtkarsh/codeWithUtkarsh/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/codeWithUtkarsh/codeWithUtkarsh/output/github-snake-dark.svg" alt="Contribution snake" width="98%" />
+  </picture>
+</p>
 
 ## 🏅 Open Source — The Linux Foundation
 
