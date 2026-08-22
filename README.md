@@ -13,6 +13,14 @@
 - 📄 **[Résumé (PDF)](https://drive.google.com/file/d/1BiaZ8UL96MT4ytYCg2Mjtqo-Rq_32TB6/view?usp=share_link)** — the full detail behind everything below.
 - 📫 Reach me on [![LinkedIn][3.2]][3] [LinkedIn][3] · [![Twitter][1.2]][1] [Twitter][1] · <utkarshkviim@gmail.com>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeWithUtkarsh/codeWithUtkarsh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeWithUtkarsh/codeWithUtkarsh/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/codeWithUtkarsh/codeWithUtkarsh/output/github-snake-dark.svg" alt="Contribution snake" width="98%" />
+  </picture>
+</p>
+
 ## ⭐ Featured Work — [`ortelius/pdvd-aiops`](https://github.com/ortelius/pdvd-aiops)
 
 [![LangGraph](https://img.shields.io/badge/LangGraph-informational?style=flat&logo=langgraph&logoColor=white&color=2bbc8a)](https://github.com/ortelius/pdvd-aiops)
@@ -188,14 +196,6 @@ Before and alongside the ML work — full-stack products, distributed streaming,
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=codeWithUtkarsh&theme=github-compact&area=true&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=codeWithUtkarsh&theme=minimal&area=true&hide_border=true" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithUtkarsh&theme=github-compact&area=true&hide_border=true" alt="Contribution activity over the last year" width="98%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeWithUtkarsh/codeWithUtkarsh/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeWithUtkarsh/codeWithUtkarsh/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/codeWithUtkarsh/codeWithUtkarsh/output/github-snake-dark.svg" alt="Contribution snake" width="98%" />
   </picture>
 </p>
 
