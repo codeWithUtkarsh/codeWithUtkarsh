@@ -239,8 +239,11 @@ Microsoft Azure — **AI-900** (AI Fundamentals) · **DP-900** (Data Fundamental
 ## &#x270d; Writing
 
   <!-- BLOG-POST-LIST:START -->
-- [Get started with Keptn — Multi-stage delivery with Quality Gates (Demo)](https://codewithutkarsh.medium.com/get-started-with-keptn-multi-stage-delivery-with-quality-gates-demo-part-1-e13438d6374)
-- [Kafka 2.7 in Docker and Spring Boot | Let's develop a pub-sub application](https://codewithutkarsh.medium.com/kafka-2-7-in-docker-and-spring-boot-lets-develop-a-pub-sub-application-a0fafd3ea3d5)
+- [14 Must-Have Claude Code Plugins That Will 10x Your Developer Workflow](https://codewithutkarsh.medium.com/14-must-have-claude-code-plugins-that-will-10x-your-developer-workflow-6606eb308681?source=rss-bac28915a8dc------2)
+- [Abstracting out Data Layer Implementation in Go](https://codewithutkarsh.medium.com/abstracting-out-data-layer-implementation-in-go-d12e50fa956b?source=rss-bac28915a8dc------2)
+- [Kafka 2.7 in Docker and Spring Boot | Let’s develop a pub-sub application](https://codewithutkarsh.medium.com/kafka-2-7-in-docker-and-spring-boot-lets-develop-a-pub-sub-application-a0fafd3ea3d5?source=rss-bac28915a8dc------2)
+- [Get started with Keptn — Multi-stage delivery with Quality Gates&lpar;Demo&rpar;-Part 1](https://codewithutkarsh.medium.com/get-started-with-keptn-multi-stage-delivery-with-quality-gates-demo-part-1-e13438d6374?source=rss-bac28915a8dc------2)
+- [Keptn — Multi-stage delivery with Quality Gates&lpar;Demo&rpar;-Part 4](https://codewithutkarsh.medium.com/keptn-multi-stage-delivery-with-quality-gates-demo-part-4-4e789325ea2?source=rss-bac28915a8dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://codewithutkarsh.medium.com/) and [dev.to](https://dev.to/codewithutkarsh).
